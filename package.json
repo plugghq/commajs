@@ -1,0 +1,23 @@
+{
+  "name": "commajs",
+  "version": "0.0.1",
+  "description": "WYSIWYG editor for visionary developers helping visionary users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugghq/commajs.git"
+  },
+  "keywords": [
+    "WYSIWYG",
+    "HTML"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/plugghq/commajs/issues"
+  },
+  "homepage": "https://github.com/plugghq/commajs#readme"
+}
