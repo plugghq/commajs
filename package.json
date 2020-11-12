@@ -1,8 +1,8 @@
 {
   "name": "commajs",
-  "version": "0.0.1",
-  "description": "WYSIWYG editor for visionary developers helping visionary users.",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Commajs - The WYSIWYG framework",
+  "main": "dist/commajs.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
