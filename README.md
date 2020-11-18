@@ -1,20 +1,7 @@
 # commajs
 
-Testing NPM packages 
 
-# Installation
+[Website](https://www.commajs.com)
 
-`npm i commajs --save`
+[Documentation](https://www.commajs.com/docs)
 
-Then...
-
-```
-import {CommaJS} from 'commajs';
-
-let cj = new CommaJS()
-```
-
-
-## Options
-
-* *testone* - _test

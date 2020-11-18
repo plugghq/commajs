@@ -1,6 +1,6 @@
 {
   "name": "commajs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Commajs - The WYSIWYG framework",
   "main": "dist/commajs.min.js",
   "repository": {
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/plugghq/commajs/issues"
   },
-  "homepage": "https://github.com/plugghq/commajs#readme"
+  "homepage": "https://www.commajs.com"
 }
